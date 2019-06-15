@@ -1,0 +1,962 @@
+@relation '_Users_abarbetta_Desktop_twitter-airline-sentiment_test_Virgin America-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute @@class@@ {positive,negative,neutral}
+@attribute #29DaysToGo numeric
+@attribute #CheapFlights numeric
+@attribute #FareCompare numeric
+@attribute #MoodlitMonday numeric
+@attribute #PHL numeric
+@attribute #Seductive numeric
+@attribute #customerservice numeric
+@attribute #dreampath numeric
+@attribute #elevategold numeric
+@attribute #fabulous numeric
+@attribute #flightattendant numeric
+@attribute #flying numeric
+@attribute #guiltypleasures numeric
+@attribute #inflight numeric
+@attribute #pleasecomeback numeric
+@attribute #stress numeric
+@attribute #virginamerica numeric
+@attribute $59 numeric
+@attribute &amp numeric
+@attribute &lt numeric
+@attribute - numeric
+@attribute -D numeric
+@attribute -G numeric
+@attribute //t numeric
+@attribute '100\%' numeric
+@attribute 1st numeric
+@attribute 2nd numeric
+@attribute 3 numeric
+@attribute @Australia numeric
+@attribute @Carrieunderwood numeric
+@attribute @Pacificbiznews numeric
+@attribute @Travelzoo numeric
+@attribute @VirginAmerica numeric
+@attribute @carrieunderwood numeric
+@attribute @freddieawards numeric
+@attribute @ladygaga numeric
+@attribute @virginamerica numeric
+@attribute @virginmedia numeric
+@attribute Airline numeric
+@attribute All numeric
+@attribute Already numeric
+@attribute America numeric
+@attribute Andrews numeric
+@attribute Angeles numeric
+@attribute Another numeric
+@attribute Any numeric
+@attribute BOS-FLL numeric
+@attribute Best numeric
+@attribute Congrats numeric
+@attribute Cool numeric
+@attribute D numeric
+@attribute DO numeric
+@attribute Deals numeric
+@attribute Done numeric
+@attribute E9 numeric
+@attribute EVER numeric
+@attribute Easy numeric
+@attribute Francisco numeric
+@attribute Gaga numeric
+@attribute Gate numeric
+@attribute Have numeric
+@attribute Hawaii numeric
+@attribute Hollywood numeric
+@attribute I numeric
+@attribute Im numeric
+@attribute Julie numeric
+@attribute LAS numeric
+@attribute LAX numeric
+@attribute Lady numeric
+@attribute Los numeric
+@attribute Lots numeric
+@attribute Love numeric
+@attribute MCO numeric
+@attribute May numeric
+@attribute Moodlighting numeric
+@attribute NO numeric
+@attribute NOW numeric
+@attribute NYC-JFK numeric
+@attribute Naelah numeric
+@attribute Need numeric
+@attribute PLEASE numeric
+@attribute RaeAnn numeric
+@attribute SF numeric
+@attribute San numeric
+@attribute Sat numeric
+@attribute She numeric
+@attribute Sign numeric
+@attribute So numeric
+@attribute Thank numeric
+@attribute Thanks numeric
+@attribute This numeric
+@attribute U numeric
+@attribute US numeric
+@attribute VX numeric
+@attribute View numeric
+@attribute Virgin numeric
+@attribute Waited numeric
+@attribute We numeric
+@attribute Well numeric
+@attribute You numeric
+@attribute a numeric
+@attribute about numeric
+@attribute added numeric
+@attribute again numeric
+@attribute airline numeric
+@attribute airlines numeric
+@attribute all numeric
+@attribute already numeric
+@attribute amazing numeric
+@attribute amazingly numeric
+@attribute an numeric
+@attribute and numeric
+@attribute applied numeric
+@attribute are numeric
+@attribute around numeric
+@attribute arrived numeric
+@attribute at numeric
+@attribute award numeric
+@attribute away numeric
+@attribute awesome numeric
+@attribute b/c numeric
+@attribute back numeric
+@attribute back-end numeric
+@attribute be numeric
+@attribute beat numeric
+@attribute beautiful numeric
+@attribute beautifully numeric
+@attribute been numeric
+@attribute best numeric
+@attribute better numeric
+@attribute beyond numeric
+@attribute bill numeric
+@attribute blew numeric
+@attribute book numeric
+@attribute brand numeric
+@attribute but numeric
+@attribute butt numeric
+@attribute by numeric
+@attribute calming numeric
+@attribute can numeric
+@attribute change numeric
+@attribute cities numeric
+@attribute classics numeric
+@attribute co/B2Xi4YG5T8 numeric
+@attribute co/Dw5nf0ibtr numeric
+@attribute co/UT5GrRwAaA numeric
+@attribute co/ahlXHhKiyn numeric
+@attribute co/gLXFwP6nQH numeric
+@attribute co/kj1iljaebV numeric
+@attribute co/r8p2Zy3fe4 numeric
+@attribute co/tZZJhuIbCH numeric
+@attribute cold numeric
+@attribute come numeric
+@attribute comfortable numeric
+@attribute commercials numeric
+@attribute cool numeric
+@attribute correct numeric
+@attribute could numeric
+@attribute country numeric
+@attribute crew numeric
+@attribute cross numeric
+@attribute customer numeric
+@attribute deal numeric
+@attribute deals numeric
+@attribute delayed numeric
+@attribute design numeric
+@attribute didn numeric
+@attribute done numeric
+@attribute down numeric
+@attribute downtown numeric
+@attribute early numeric
+@attribute end numeric
+@attribute entertaining numeric
+@attribute even numeric
+@attribute every numeric
+@attribute excited numeric
+@attribute experience numeric
+@attribute feel numeric
+@attribute first numeric
+@attribute flew numeric
+@attribute flight numeric
+@attribute flights numeric
+@attribute flown numeric
+@attribute fly numeric
+@attribute flying numeric
+@attribute for numeric
+@attribute from numeric
+@attribute front-end numeric
+@attribute get numeric
+@attribute getaway numeric
+@attribute go numeric
+@attribute gone numeric
+@attribute good numeric
+@attribute graphic numeric
+@attribute graphics numeric
+@attribute great numeric
+@attribute hands numeric
+@attribute has numeric
+@attribute have numeric
+@attribute haven numeric
+@attribute heard numeric
+@attribute helpful numeric
+@attribute hipster numeric
+@attribute home numeric
+@attribute horrible numeric
+@attribute hour numeric
+@attribute http numeric
+@attribute iconography numeric
+@attribute impressive numeric
+@attribute in numeric
+@attribute innovation numeric
+@attribute interested numeric
+@attribute is numeric
+@attribute it numeric
+@attribute just numeric
+@attribute kept numeric
+@attribute kicked numeric
+@attribute know numeric
+@attribute like numeric
+@attribute love numeric
+@attribute m numeric
+@attribute me numeric
+@attribute member numeric
+@attribute mind numeric
+@attribute minimal numeric
+@attribute more numeric
+@attribute morning numeric
+@attribute mountains numeric
+@attribute moved numeric
+@attribute much numeric
+@attribute my numeric
+@attribute nearly numeric
+@attribute need numeric
+@attribute new numeric
+@attribute news numeric
+@attribute not numeric
+@attribute nothing numeric
+@attribute now numeric
+@attribute of numeric
+@attribute on numeric
+@attribute once numeric
+@attribute one-way numeric
+@attribute only numeric
+@attribute out numeric
+@attribute outstanding numeric
+@attribute p numeric
+@attribute plane numeric
+@attribute plus numeric
+@attribute pretty numeric
+@attribute rain numeric
+@attribute re numeric
+@attribute really numeric
+@attribute reason numeric
+@attribute rep numeric
+@attribute representatives numeric
+@attribute represents numeric
+@attribute reservation numeric
+@attribute ride numeric
+@attribute right numeric
+@attribute rock numeric
+@attribute running numeric
+@attribute s numeric
+@attribute secure numeric
+@attribute service numeric
+@attribute she numeric
+@attribute should numeric
+@attribute skies numeric
+@attribute so numeric
+@attribute spotify numeric
+@attribute start numeric
+@attribute stat numeric
+@attribute still numeric
+@attribute such numeric
+@attribute t numeric
+@attribute tacky numeric
+@attribute take numeric
+@attribute team numeric
+@attribute than numeric
+@attribute thanks numeric
+@attribute that numeric
+@attribute the numeric
+@attribute then numeric
+@attribute they numeric
+@attribute things numeric
+@attribute thinking numeric
+@attribute this numeric
+@attribute though numeric
+@attribute three numeric
+@attribute through numeric
+@attribute ticket numeric
+@attribute time numeric
+@attribute to numeric
+@attribute tonight numeric
+@attribute too numeric
+@attribute travel numeric
+@attribute trip numeric
+@attribute t…but numeric
+@attribute us numeric
+@attribute ve numeric
+@attribute very numeric
+@attribute via numeric
+@attribute want numeric
+@attribute was numeric
+@attribute way numeric
+@attribute we numeric
+@attribute week numeric
+@attribute what numeric
+@attribute who numeric
+@attribute winning numeric
+@attribute with numeric
+@attribute won’t numeric
+@attribute worm” numeric
+@attribute worried numeric
+@attribute would numeric
+@attribute wow numeric
+@attribute yall numeric
+@attribute year numeric
+@attribute yes numeric
+@attribute yet numeric
+@attribute you numeric
+@attribute your numeric
+@attribute “ear numeric
+@attribute ☺️👍 numeric
+@attribute ❤️ numeric
+@attribute 🌞✈ numeric
+@attribute 💕💕 numeric
+@attribute 💜✈ numeric
+@attribute 😊 numeric
+@attribute #SFOtoBOS numeric
+@attribute #VX358 numeric
+@attribute #fail numeric
+@attribute #neverflyvirgin numeric
+@attribute #neverflyvirginforbusiness numeric
+@attribute #noair numeric
+@attribute #nomorevirgin numeric
+@attribute #roasted numeric
+@attribute #sarcasm numeric
+@attribute #sfo2lax numeric
+@attribute #sneaky numeric
+@attribute #uncomfortable numeric
+@attribute #worstflightever numeric
+@attribute $30 numeric
+@attribute $40 numeric
+@attribute $99 numeric
+@attribute -- numeric
+@attribute / numeric
+@attribute 11 numeric
+@attribute 2 numeric
+@attribute 2014 numeric
+@attribute 2015 numeric
+@attribute 2A numeric
+@attribute 3-4 numeric
+@attribute 4 numeric
+@attribute 40 numeric
+@attribute 40-50 numeric
+@attribute 50pm numeric
+@attribute 6 numeric
+@attribute 89 numeric
+@attribute @JetBlue numeric
+@attribute @SouthwestAir numeric
+@attribute AM numeric
+@attribute And numeric
+@attribute At numeric
+@attribute BTW numeric
+@attribute Booking numeric
+@attribute But numeric
+@attribute Called numeric
+@attribute Cancelled numeric
+@attribute DAL numeric
+@attribute Elevate numeric
+@attribute F numeric
+@attribute FLL-&gt numeric
+@attribute Flight numeric
+@attribute Flightled numeric
+@attribute Folks numeric
+@attribute HELP numeric
+@attribute Help numeric
+@attribute Hey numeric
+@attribute Hi numeric
+@attribute IAD numeric
+@attribute Is numeric
+@attribute I’m numeric
+@attribute Just numeric
+@attribute L&amp numeric
+@attribute LA numeric
+@attribute LGA-&gt numeric
+@attribute Late numeric
+@attribute Let numeric
+@attribute MIA numeric
+@attribute NYC numeric
+@attribute No numeric
+@attribute Problems numeric
+@attribute SFO numeric
+@attribute SFO-PDX numeric
+@attribute Saturday numeric
+@attribute Seat numeric
+@attribute TV numeric
+@attribute Three numeric
+@attribute Time numeric
+@attribute Use numeric
+@attribute VA numeric
+@attribute VA370 numeric
+@attribute Vegas numeric
+@attribute Website numeric
+@attribute What numeric
+@attribute When numeric
+@attribute Whenever numeric
+@attribute Why numeric
+@attribute Your numeric
+@attribute able numeric
+@attribute account numeric
+@attribute add numeric
+@attribute adding numeric
+@attribute after numeric
+@attribute aggressive numeric
+@attribute ago numeric
+@attribute air numeric
+@attribute am numeric
+@attribute another numeric
+@attribute answering numeric
+@attribute any numeric
+@attribute anyone numeric
+@attribute anything numeric
+@attribute anyway numeric
+@attribute appointments numeric
+@attribute apt numeric
+@attribute asap numeric
+@attribute available numeric
+@attribute awaiting numeric
+@attribute bad numeric
+@attribute bag numeric
+@attribute begrudgingly numeric
+@attribute big numeric
+@attribute bin numeric
+@attribute birthday numeric
+@attribute biz numeric
+@attribute bked numeric
+@attribute blast numeric
+@attribute booked numeric
+@attribute both numeric
+@attribute bought numeric
+@attribute browser numeric
+@attribute built numeric
+@attribute business numeric
+@attribute call numeric
+@attribute called numeric
+@attribute card numeric
+@attribute carriers numeric
+@attribute cause numeric
+@attribute chat numeric
+@attribute check numeric
+@attribute class numeric
+@attribute co/AvyqdMpi1Y numeric
+@attribute co/hy0VrfhjHt numeric
+@attribute co/pX8hQOKS3R numeric
+@attribute co/vhp2GtDWPk numeric
+@attribute compatible numeric
+@attribute concerned numeric
+@attribute connecting numeric
+@attribute couldn numeric
+@attribute cross-browser numeric
+@attribute deal- numeric
+@attribute delay numeric
+@attribute desktop numeric
+@attribute direct numeric
+@attribute dirty numeric
+@attribute disappointed numeric
+@attribute disappointing numeric
+@attribute doesn numeric
+@attribute doing numeric
+@attribute due numeric
+@attribute during numeric
+@attribute earlier numeric
+@attribute eat numeric
+@attribute either numeric
+@attribute elevate numeric
+@attribute emailed numeric
+@attribute enter numeric
+@attribute entered numeric
+@attribute entertainment numeric
+@attribute everything numeric
+@attribute exp numeric
+@attribute expensive numeric
+@attribute faces numeric
+@attribute fares numeric
+@attribute find numeric
+@attribute fine numeric
+@attribute floors numeric
+@attribute flyer numeric
+@attribute food numeric
+@attribute four numeric
+@attribute free numeric
+@attribute friendly numeric
+@attribute friends numeric
+@attribute fuel numeric
+@attribute fully numeric
+@attribute game numeric
+@attribute gave numeric
+@attribute gentleman numeric
+@attribute getting numeric
+@attribute going numeric
+@attribute guests numeric
+@attribute guys numeric
+@attribute guyyyys numeric
+@attribute had numeric
+@attribute happened numeric
+@attribute hard numeric
+@attribute having numeric
+@attribute headphones numeric
+@attribute help numeric
+@attribute here numeric
+@attribute heyyyy numeric
+@attribute hi numeric
+@attribute hold numeric
+@attribute how numeric
+@attribute hrs numeric
+@attribute human numeric
+@attribute hung numeric
+@attribute i numeric
+@attribute info numeric
+@attribute interesting numeric
+@attribute internet numeric
+@attribute isn numeric
+@attribute its numeric
+@attribute jfk numeric
+@attribute landed numeric
+@attribute large numeric
+@attribute last numeric
+@attribute lax numeric
+@attribute layover numeric
+@attribute least numeric
+@attribute leave numeric
+@attribute left numeric
+@attribute line numeric
+@attribute little numeric
+@attribute loads numeric
+@attribute loft numeric
+@attribute long numeric
+@attribute lost numeric
+@attribute match numeric
+@attribute meet numeric
+@attribute messed numeric
+@attribute middle numeric
+@attribute min numeric
+@attribute minutes numeric
+@attribute miss numeric
+@attribute missed numeric
+@attribute mobile numeric
+@attribute must numeric
+@attribute name numeric
+@attribute needs numeric
+@attribute never numeric
+@attribute next numeric
+@attribute no numeric
+@attribute number numeric
+@attribute obnoxious numeric
+@attribute one numeric
+@attribute online numeric
+@attribute option numeric
+@attribute options numeric
+@attribute or numeric
+@attribute other numeric
+@attribute over numeric
+@attribute page numeric
+@attribute passengers numeric
+@attribute pay numeric
+@attribute peeps numeric
+@attribute people numeric
+@attribute phone numeric
+@attribute plain numeric
+@attribute planned numeric
+@attribute playing numeric
+@attribute please numeric
+@attribute prefer numeric
+@attribute problem numeric
+@attribute program numeric
+@attribute recourse numeric
+@attribute redesign numeric
+@attribute reluctant numeric
+@attribute remove numeric
+@attribute reputation numeric
+@attribute reserved numeric
+@attribute response numeric
+@attribute return numeric
+@attribute same numeric
+@attribute say numeric
+@attribute scanned numeric
+@attribute schedule numeric
+@attribute seat numeric
+@attribute seating numeric
+@attribute seats numeric
+@attribute seems numeric
+@attribute select numeric
+@attribute self-service numeric
+@attribute seriously numeric
+@attribute shared numeric
+@attribute shown numeric
+@attribute side numeric
+@attribute since numeric
+@attribute sit numeric
+@attribute site numeric
+@attribute someone numeric
+@attribute speak numeric
+@attribute status numeric
+@attribute step numeric
+@attribute stop numeric
+@attribute supp numeric
+@attribute support numeric
+@attribute tables numeric
+@attribute tech numeric
+@attribute text numeric
+@attribute their numeric
+@attribute there numeric
+@attribute thing numeric
+@attribute thx numeric
+@attribute times numeric
+@attribute today numeric
+@attribute told numeric
+@attribute totally numeric
+@attribute traveler numeric
+@attribute tried numeric
+@attribute tripping numeric
+@attribute trouble numeric
+@attribute trying numeric
+@attribute two numeric
+@attribute unexpected numeric
+@attribute until numeric
+@attribute up numeric
+@attribute ur numeric
+@attribute use numeric
+@attribute useless numeric
+@attribute user numeric
+@attribute vegan numeric
+@attribute vents numeric
+@attribute version numeric
+@attribute video numeric
+@attribute website numeric
+@attribute weeks numeric
+@attribute went numeric
+@attribute when numeric
+@attribute which numeric
+@attribute why numeric
+@attribute wife numeric
+@attribute will numeric
+@attribute won numeric
+@attribute working numeric
+@attribute 😡 numeric
+@attribute 😢 numeric
+@attribute #CMFat35000feet numeric
+@attribute #CarrieUnderwood numeric
+@attribute #Oscars2015 numeric
+@attribute #ScienceBehindTheExperience numeric
+@attribute #SoundOfMusic numeric
+@attribute #andchexmix numeric
+@attribute #change numeric
+@attribute #sendambien numeric
+@attribute #travelhelp numeric
+@attribute #tribute numeric
+@attribute 000 numeric
+@attribute 0736 numeric
+@attribute 10-24 numeric
+@attribute 10pm numeric
+@attribute 2/24 numeric
+@attribute 2/27 numeric
+@attribute 24 numeric
+@attribute 24th numeric
+@attribute 30 numeric
+@attribute 345 numeric
+@attribute 35 numeric
+@attribute 714 numeric
+@attribute 769 numeric
+@attribute @CarrieUnderwood numeric
+@attribute @LadyGaga numeric
+@attribute @dhepburn numeric
+@attribute After numeric
+@attribute Are numeric
+@attribute Atlanta numeric
+@attribute BOS&gt numeric
+@attribute Bags numeric
+@attribute Can numeric
+@attribute Carrie numeric
+@attribute Changed numeric
+@attribute Club numeric
+@attribute DCA numeric
+@attribute DREAM numeric
+@attribute Dallas numeric
+@attribute Do numeric
+@attribute Don numeric
+@attribute Doom numeric
+@attribute EWR numeric
+@attribute Feb numeric
+@attribute February numeric
+@attribute Flying numeric
+@attribute Hands numeric
+@attribute Hats numeric
+@attribute How numeric
+@attribute In numeric
+@attribute JPERHI numeric
+@attribute LAX---&gt numeric
+@attribute Life numeric
+@attribute Looks numeric
+@attribute Martin numeric
+@attribute Mary numeric
+@attribute Meh numeric
+@attribute Men numeric
+@attribute Middle numeric
+@attribute Must numeric
+@attribute New numeric
+@attribute Nice numeric
+@attribute On numeric
+@attribute Or numeric
+@attribute Prince numeric
+@attribute Q numeric
+@attribute RNP numeric
+@attribute RT numeric
+@attribute Random numeric
+@attribute Really numeric
+@attribute SEA numeric
+@attribute Seattle numeric
+@attribute Soon numeric
+@attribute Sorry numeric
+@attribute Status numeric
+@attribute Such numeric
+@attribute Thursday numeric
+@attribute Tried numeric
+@attribute Vibe numeric
+@attribute Was numeric
+@attribute Will numeric
+@attribute Without numeric
+@attribute Yeah numeric
+@attribute agree numeric
+@attribute among numeric
+@attribute anytime numeric
+@attribute avatars numeric
+@attribute baggage numeric
+@attribute before numeric
+@attribute bet numeric
+@attribute bid numeric
+@attribute boy numeric
+@attribute bring numeric
+@attribute city numeric
+@attribute co/APtZpuROp4 numeric
+@attribute co/F2LFULCbQ7 numeric
+@attribute co/GsB2J3c4gM numeric
+@attribute co/KEK5pDMGiF numeric
+@attribute co/QDlJHslOI5 numeric
+@attribute co/RPdBpX3wNd numeric
+@attribute co/Y7O0uNxTQP numeric
+@attribute co/lWWdAc2kHx numeric
+@attribute co/mWpG7grEZP numeric
+@attribute co/maRcnOCWzn numeric
+@attribute co/oA2dRfAoQ2 numeric
+@attribute code numeric
+@attribute credit numeric
+@attribute current numeric
+@attribute d numeric
+@attribute death numeric
+@attribute did numeric
+@attribute different numeric
+@attribute disproportionate numeric
+@attribute distribution numeric
+@attribute do numeric
+@attribute don numeric
+@attribute expires numeric
+@attribute eye numeric
+@attribute fee numeric
+@attribute feet numeric
+@attribute films numeric
+@attribute happens numeric
+@attribute hours numeric
+@attribute https numeric
+@attribute if numeric
+@attribute kitty numeric
+@attribute leading numeric
+@attribute leaving numeric
+@attribute let numeric
+@attribute ll numeric
+@attribute making numeric
+@attribute maneuver numeric
+@attribute marketing numeric
+@attribute mean numeric
+@attribute media numeric
+@attribute modify numeric
+@attribute moodlight numeric
+@attribute most numeric
+@attribute music numeric
+@attribute night numeric
+@attribute non numeric
+@attribute noob numeric
+@attribute off numeric
+@attribute operation numeric
+@attribute opportunity numeric
+@attribute parody numeric
+@attribute permanently numeric
+@attribute plz numeric
+@attribute points numeric
+@attribute posted numeric
+@attribute prime numeric
+@attribute rate/policy numeric
+@attribute recent numeric
+@attribute red numeric
+@attribute redirected numeric
+@attribute ressie numeric
+@attribute said numeric
+@attribute scheduled numeric
+@attribute second numeric
+@attribute share numeric
+@attribute shows numeric
+@attribute some numeric
+@attribute song numeric
+@attribute soon numeric
+@attribute student numeric
+@attribute suicide numeric
+@attribute supposed numeric
+@attribute takeoff numeric
+@attribute teens numeric
+@attribute think numeric
+@attribute together numeric
+@attribute touchdown numeric
+@attribute tracking numeric
+@attribute unused numeric
+@attribute upgrade numeric
+@attribute using numeric
+@attribute waive numeric
+@attribute watch numeric
+@attribute weather numeric
+@attribute were numeric
+@attribute where numeric
+@attribute win numeric
+@attribute wish numeric
+@attribute worry numeric
+@attribute 🍷👍💺✈️ numeric
+@attribute 😍👌 numeric
+
+@data
+{24 1,31 1,33 1,42 1,62 1,138 1,150 1,158 1,172 1,182 1,196 1,207 1,213 1,235 1,239 1,270 1,286 1,292 1,301 1,317 1}
+{24 1,32 1,33 1,39 1,48 1,49 1,53 1,93 1,111 1,118 1,149 1,186 1,187 1,207 1,240 1,281 1,309 1}
+{9 1,33 1,64 1,101 1,186 1,193 1,221 1,253 1,260 1,320 1}
+{33 1,103 1,155 1,177 1,248 1,275 1,281 1,292 1,299 1,320 1}
+{33 1,35 1,48 1,54 1,105 1,112 1,115 1,168 1,169 1,197 1}
+{5 1,15 1,24 1,33 1,98 1,108 1,122 1,148 1,152 1,153 1,205 1,207 1,233 1,239 1,244 1,276 1,286 1,292 1,298 1,320 1}
+{4 1,33 1,48 1,50 1,56 1,75 1,112 1,139 1,177 1,184 1,213 1,243 1,281 1,292 1,304 1,327 1}
+{33 1,133 1,215 1,224 1,231 1,286 1,315 1}
+{33 1,100 1,109 1,111 1,112 1,116 1,171 1,193 1,206 1,214 1,222 1,251 1,292 1,294 1,303 1}
+{2 1,3 1,18 1,24 1,33 1,71 1,74 1,142 1,151 1,156 1,164 1,187 1,190 1,198 1,207 1,239 1,242 1,289 1}
+{33 1,64 1,185 1,323 1,324 1}
+{33 1,58 1,78 1,84 1,160 1,189 1,204 1,222 1,228 1,229 1,245 1,279 1,292 1,293 1,308 1,321 1}
+{7 1,12 1,17 1,21 1,33 1,82 1,83 1,104 1,109 1,129 1,162 1,210 1,262 1,264 1,265 1,281 1,326 1}
+{2 1,3 1,18 1,24 1,33 1,71 1,74 1,142 1,144 1,156 1,164 1,187 1,190 1,198 1,207 1,239 1,242 1,289 1}
+{33 1,34 1,36 1,107 1,125 1,136 1,140 1,143 1,220 1,252 1,274 1,281 1,288 1,320 1}
+{19 1,33 1,57 1,64 1,101 1,105 1,129 1,141 1,154 1,177 1,183 1,185 1,199 1,202 1,213 1,240 1,255 1,257 1,281 1,292 1,321 1}
+{24 1,33 1,44 1,63 1,70 1,87 1,95 1,112 1,131 1,145 1,170 1,207 1,210 1,228 1,239 1,250 1,280 1,281 1}
+{8 1,11 1,14 1,23 1,25 1,33 1,64 1,65 1,101 1,113 1,124 1,160 1,212 1,223 1,226 1,239 1,241 1,277 1,281 1,282 1,292 1,299 1}
+{6 1,10 1,16 1,24 1,33 1,38 1,64 1,92 1,104 1,107 1,119 1,147 1,185 1,187 1,207 1,221 1,267 1,276 1,281 1,295 1,321 1}
+{33 1,90 1}
+{19 1,26 1,27 1,29 1,33 1,41 1,64 1,91 1,101 1,102 1,163 1,174 1,192 1,196 1,200 1,213 1,231 1,240 1,246 1,273 1,274 1,285 1,292 1,296 1,319 1}
+{33 1,61 1,101 1,196 1,306 1,325 1}
+{33 1,64 1,100 1,101 1,114 1,135 1,178 1,193 1,203 1,211 1,220 1,281 1}
+{30 1,33 1,34 1,36 1,43 1,66 1,76 1,107 1,209 1,281 1,287 1,292 1,300 1,303 1,304 1}
+{33 1,46 1,64 1,85 1,120 1,132 1,140 1,157 1,180 1,227 1,231 1,304 1,305 1,316 1}
+{20 1,28 1,33 1,51 1,64 1,130 1,195 1,208 1,225 1,230 1,249 1,268 1,278 1}
+{33 1,47 1,64 1,81 1,110 1,120 1,124 1,184 1,218 1,243 1,292 1,302 1,307 1,310 1,314 1,320 1}
+{33 1,34 1,36 1,59 1,64 1,69 1,86 1,109 1,213 1,221 1,328 1}
+{33 1,55 1,60 1,67 1,72 1,97 1,101 1,112 1,117 1,165 1,173 1,181 1,186 1,216 1,261 1,277 1,281 1,283 1,284 1,293 1}
+{33 1,107 1,121 1,123 1,126 1,134 1,136 1,156 1,166 1,169 1,188 1,213 1,214 1,231 1,238 1,259 1,263 1,272 1,290 1,292 1,303 1,321 1}
+{33 1,40 1,101 1,106 1,124 1,128 1,160 1,196 1,210 1,214 1,219 1,234 1,236 1,247 1,258 1,262 1,266 1,286 1,310 1,313 1}
+{13 1,33 1,80 1,214 1,218 1,231 1,240 1,269 1,271 1,320 1}
+{33 1,45 1,79 1,89 1,104 1,112 1,127 1,137 1,217 1,254 1,256 1,268 1,277 1,320 1,321 1}
+{1 1,33 1,42 1,64 1,68 1,73 1,88 1,96 1,102 1,136 1,159 1,161 1,176 1,179 1,181 1,186 1,196 1,201 1,231 1,237 1,284 1,292 1,299 1}
+{24 1,33 1,64 1,146 1,194 1,207 1,220 1,286 1}
+{33 1,64 1,94 1,119 1,175 1,184 1,191 1,232 1,286 1,291 1,311 1,312 1,318 1,322 1}
+{22 1,37 1,52 1,64 1,77 1,99 1,167 1,297 1}
+{0 negative,28 1,33 1,64 1,101 1,102 1,182 1,187 1,200 1,231 1,272 1,274 1,283 1,292 1,349 1,352 1,370 1,413 1,416 1,446 1,510 1,597 1,628 1,638 1}
+{0 negative,33 1,213 1,272 1,389 1,394 1,588 1}
+{0 negative,33 1,64 1,101 1,136 1,140 1,156 1,215 1,231 1,274 1,296 1,310 1,320 1,365 1,373 1,392 1,412 1,435 1,437 1,449 1,472 1,476 1,479 1,513 1,519 1,543 1,550 1,554 1,648 1}
+{0 negative,19 1,33 1,199 1,210 1,214 1,252 1,262 1,283 1,292 1,321 1,415 1,438 1,480 1,484 1,502 1,535 1,556 1,577 1}
+{0 negative,33 1,74 1,107 1,114 1,179 1,210 1,226 1,278 1,288 1,292 1,321 1,428 1,448 1,485 1,562 1,563 1,591 1,593 1,616 1,640 1,642 1}
+{0 negative,33 1,64 1,101 1,112 1,181 1,227 1,231 1,292 1,320 1,338 1,373 1,387 1,425 1,431 1,444 1,451 1,539 1,546 1,547 1,549 1,620 1,642 1}
+{0 negative,33 1,64 1,112 1,180 1,187 1,210 1,222 1,231 1,239 1,240 1,274 1,292 1,306 1,376 1,390 1,393 1,460 1,471 1,475 1,496 1,499 1,527 1,528 1,589 1,598 1,600 1,625 1}
+{0 negative,33 1,109 1,140 1,152 1,187 1,189 1,222 1,274 1,280 1,281 1,292 1,305 1,329 1,330 1,334 1,336 1,341 1,417 1,421 1,634 1}
+{0 negative,33 1,64 1,112 1,210 1,213 1,221 1,281 1,292 1,321 1,418 1,421 1,447 1,451 1,478 1,500 1,520 1,570 1,579 1,601 1,611 1,622 1,624 1,635 1}
+{0 negative,33 1,64 1,105 1,112 1,129 1,165 1,221 1,251 1,281 1,320 1,373 1,387 1,407 1,421 1,432 1,562 1,630 1}
+{0 negative,24 1,33 1,64 1,101 1,112 1,140 1,207 1,210 1,274 1,299 1,409 1,412 1,431 1,440 1,451 1,453 1,464 1,523 1,548 1,561 1,621 1,637 1,646 1}
+{0 negative,33 1,91 1,112 1,120 1,213 1,240 1,264 1,303 1,321 1,337 1,446 1,518 1,534 1,628 1}
+{0 negative,33 1,169 1,181 1,213 1,238 1,281 1,307 1,362 1,365 1,373 1,375 1,392 1,575 1,601 1,619 1}
+{0 negative,33 1,64 1,112 1,119 1,231 1,302 1,310 1,320 1,492 1,494 1,498 1,503 1,522 1,542 1,582 1,589 1,590 1,628 1,647 1}
+{0 negative,33 1,64 1,112 1,181 1,215 1,231 1,240 1,320 1,321 1,361 1,373 1,387 1,398 1,426 1,431 1,444 1,451 1,482 1,505 1,539 1,547 1,554 1,562 1,568 1,585 1}
+{0 negative,33 1,231 1,303 1,320 1,431 1,481 1,487 1,539 1,627 1}
+{0 negative,33 1,112 1,140 1,162 1,199 1,219 1,264 1,274 1,281 1,320 1,333 1,359 1,360 1,436 1,607 1,620 1,642 1}
+{0 negative,33 1,215 1,231 1,292 1,314 1,321 1,429 1,445 1,558 1,559 1,569 1,574 1,584 1,594 1,630 1}
+{0 negative,33 1,122 1,124 1,169 1,213 1,214 1,281 1,406 1,408 1,601 1,628 1,644 1}
+{0 negative,21 1,26 1,33 1,187 1,210 1,247 1,278 1,281 1,292 1,340 1,348 1,388 1,431 1,434 1,452 1,532 1,565 1,580 1,587 1,602 1,612 1,618 1}
+{0 negative,33 1,68 1,117 1,181 1,240 1,292 1,351 1,358 1,371 1,380 1,384 1,391 1,396 1,420 1,483 1,509 1,510 1,533 1,555 1,557 1,617 1}
+{0 negative,33 1,64 1,101 1,136 1,162 1,186 1,215 1,219 1,264 1,281 1,294 1,354 1,402 1,459 1,463 1,538 1,544 1,565 1,592 1}
+{0 negative,24 1,33 1,207 1,213 1,236 1,240 1,321 1,409 1,450 1,456 1,601 1,608 1,646 1}
+{0 negative,33 1,64 1,182 1,185 1,199 1,231 1,286 1,310 1,320 1,333 1,368 1,373 1,414 1,491 1,521 1,553 1,554 1,571 1,644 1}
+{0 negative,33 1,64 1,101 1,102 1,124 1,165 1,184 1,240 1,247 1,266 1,280 1,292 1,418 1,458 1,471 1,551 1,606 1,610 1}
+{0 negative,19 1,33 1,101 1,135 1,199 1,240 1,274 1,310 1,350 1,400 1,419 1,442 1,443 1,457 1,461 1,469 1,581 1,583 1,610 1,637 1}
+{0 negative,37 1,101 1,181 1,186 1,199 1,210 1,222 1,262 1,292 1,319 1,339 1,353 1,372 1,393 1,403 1,441 1,465 1,495 1,515 1,530 1,553 1,567 1,626 1}
+{0 negative,33 1,89 1,101 1,162 1,213 1,240 1,264 1,292 1,307 1,310 1,320 1,381 1,424 1,427 1,501 1,517 1,603 1,613 1}
+{0 negative,33 1,64 1,96 1,114 1,182 1,186 1,187 1,221 1,240 1,278 1,292 1,293 1,345 1,347 1,355 1,356 1,379 1,385 1,390 1,421 1,473 1,514 1,545 1,613 1}
+{0 negative,33 1,64 1,101 1,124 1,175 1,177 1,214 1,303 1,310 1,332 1,444 1,468 1,541 1,596 1,620 1,641 1,644 1}
+{0 negative,24 1,33 1,105 1,112 1,120 1,136 1,186 1,207 1,213 1,292 1,321 1,343 1,454 1,466 1,488 1,497 1,524 1,529 1,537 1,551 1,605 1,609 1,628 1}
+{0 negative,33 1,101 1,169 1,177 1,186 1,196 1,213 1,214 1,222 1,234 1,274 1,321 1,364 1,381 1,399 1,419 1,523 1,561 1,578 1,632 1,637 1}
+{0 negative,33 1,64 1,68 1,111 1,128 1,206 1,210 1,213 1,215 1,236 1,239 1,266 1,295 1,335 1,373 1,387 1,409 1,414 1,431 1,444 1,451 1,493 1,511 1,526 1,554 1}
+{0 negative,33 1,101 1,102 1,112 1,214 1,252 1,262 1,430 1,433 1,614 1}
+{0 negative,24 1,33 1,181 1,207 1,231 1,286 1,292 1,370 1,377 1,382 1,411 1,413 1,439 1,455 1,508 1,623 1,643 1}
+{0 negative,33 1,111 1,128 1,140 1,186 1,189 1,206 1,222 1,289 1,292 1,346 1,445 1,504 1,512 1,573 1,602 1,624 1}
+{0 negative,33 1,64 1,112 1,113 1,128 1,214 1,262 1,288 1,310 1,367 1,477 1,540 1,554 1,576 1,583 1,604 1,638 1}
+{0 negative,33 1,112 1,213 1,281 1,404 1,420 1,422 1,423 1,470 1,554 1,557 1,569 1,613 1,617 1,631 1}
+{0 negative,33 1,64 1,112 1,181 1,182 1,210 1,219 1,240 1,244 1,281 1,292 1,368 1,374 1,383 1,395 1,397 1,467 1,521 1,525 1,562 1,636 1,639 1,640 1}
+{0 negative,33 1,101 1,102 1,167 1,181 1,185 1,186 1,199 1,214 1,243 1,252 1,262 1,274 1,280 1,281 1,286 1,314 1,342 1,401 1,430 1,566 1,572 1,591 1,595 1,614 1}
+{0 negative,19 1,33 1,102 1,128 1,134 1,136 1,176 1,221 1,268 1,281 1,299 1,306 1,321 1,344 1,348 1,369 1,386 1,462 1,513 1,519 1,528 1,536 1,552 1,564 1,599 1,615 1,624 1}
+{0 negative,37 1,64 1,101 1,102 1,140 1,181 1,213 1,257 1,274 1,292 1,308 1,321 1,405 1,445 1,486 1,555 1,569 1}
+{0 negative,33 1,64 1,124 1,186 1,218 1,240 1,268 1,274 1,331 1,348 1,357 1,363 1,405 1,410 1,423 1,474 1,490 1,506 1,516 1,519 1,531 1,553 1,560 1,586 1,601 1,629 1,633 1,645 1}
+{0 negative,21 1,33 1,64 1,101 1,103 1,176 1,179 1,182 1,221 1,231 1,291 1,292 1,306 1,366 1,370 1,377 1,378 1,411 1,489 1,500 1,507 1,508 1,553 1}
+{0 neutral,24 1,33 1,218 1,298 1,307 1,320 1,708 1,743 1,771 1,776 1,780 1,810 1,817 1}
+{0 neutral,33 1,213 1,218 1,239 1,280 1,281 1,320 1,449 1,661 1,732 1,757 1,758 1,774 1,806 1,813 1,816 1}
+{0 neutral,33 1,34 1,36 1,40 1,173 1,827 1}
+{0 neutral,24 1,33 1,101 1,186 1,547 1,613 1,695 1,705 1,717 1,729 1,750 1,771 1,792 1,793 1,798 1}
+{0 neutral,24 1,33 1,207 1,234 1,244 1,451 1,751 1,786 1}
+{0 neutral,33 1,34 1,36 1,43 1,59 1,66 1,69 1,136 1,179 1,222 1,315 1,528 1,681 1,704 1,756 1,787 1}
+{0 neutral,33 1,112 1,181 1,186 1,189 1,231 1,236 1,240 1,281 1,292 1,411 1,412 1,476 1,513 1,515 1,519 1,758 1,762 1,785 1,796 1,800 1}
+{0 neutral,33 1,64 1,167 1,233 1,274 1,276 1,292 1,296 1,419 1,617 1,707 1,781 1}
+{0 neutral,33 1,100 1,169 1,218 1,222 1,310 1,320 1,714 1,730 1}
+{0 neutral,33 1,64 1,181 1,186 1,219 1,240 1,272 1,292 1,303 1,348 1,369 1,393 1,471 1,617 1,666 1,670 1,682 1,701 1,805 1,826 1}
+{0 neutral,33 1,114 1,117 1,186 1,239 1,280 1,281 1,393 1,558 1,676 1,683 1,755 1,770 1,791 1,797 1}
+{0 neutral,33 1,114 1,182 1,186 1,240 1,291 1,665 1,686 1,691 1,719 1,775 1}
+{0 neutral,33 1,180 1,239 1,244 1,320 1,677 1,720 1,830 1}
+{0 neutral,2 1,3 1,18 1,24 1,33 1,71 1,74 1,142 1,156 1,164 1,187 1,190 1,198 1,207 1,239 1,242 1,289 1,747 1}
+{0 neutral,33 1,90 1,101 1,107 1,179 1,185 1,186 1,199 1,291 1,320 1,679 1,759 1,762 1,782 1,799 1}
+{0 neutral,33 1,64 1,101 1,111 1,136 1,140 1,184 1,199 1,214 1,229 1,234 1,274 1,290 1,292 1,310 1,320 1,657 1,696 1,736 1,741 1,763 1,764 1,821 1,828 1}
+{0 neutral,24 1,33 1,64 1,101 1,198 1,207 1,239 1,262 1,280 1,281 1,307 1,476 1,713 1,716 1,734 1,737 1,742 1,760 1,761 1,773 1,807 1}
+{0 neutral,33 1,181 1,186 1,222 1,231 1,510 1,664 1,699 1,718 1,738 1,795 1,822 1,829 1,832 1}
+{0 neutral,33 1,62 1,64 1,134 1,140 1,181 1,231 1,292 1,640 1}
+{0 neutral,33 1,67 1,124 1,320 1,606 1,644 1,678 1,733 1,778 1,788 1,794 1,811 1}
+{0 neutral,24 1,33 1,117 1,129 1,159 1,207 1,210 1,239 1,281 1,649 1,659 1,669 1,711 1,745 1,767 1,768 1,809 1,812 1,825 1}
+{0 neutral,33 1,292 1,307 1,506 1,689 1}
+{0 neutral,20 1,28 1,33 1,64 1,112 1,204 1,222 1,231 1,236 1,292 1,296 1,320 1,366 1,401 1,418 1,510 1,564 1,624 1,644 1,655 1,680 1,693 1,698 1,700 1,769 1,776 1}
+{0 neutral,33 1,231 1,257 1,274 1,365 1,373 1,392 1,558 1,628 1,680 1,740 1,753 1,823 1}
+{0 neutral,21 1,33 1,68 1,101 1,240 1,292 1,589 1,654 1,656 1,690 1,706 1,723 1,765 1,779 1,789 1,801 1}
+{0 neutral,33 1,34 1,36 1,43 1,66 1,169 1,694 1}
+{0 neutral,33 1,179 1,214 1,505 1,672 1,673 1,702 1,703 1,721 1}
+{0 neutral,33 1,64 1,162 1,218 1,222 1,233 1,264 1,277 1,281 1,320 1,321 1,388 1,477 1,555 1,772 1,820 1}
+{0 neutral,2 1,3 1,18 1,24 1,33 1,71 1,74 1,142 1,156 1,164 1,187 1,190 1,198 1,207 1,239 1,242 1,289 1,746 1}
+{0 neutral,33 1,158 1,210 1,236 1,292 1,348 1,369 1,373 1,451 1,573 1,660 1,662 1,663 1,684 1,722 1,725 1}
+{0 neutral,33 1,405 1,674 1,804 1}
+{0 neutral,33 1,124 1,182 1,186 1,240 1,385 1,666 1,686 1,692 1,728 1,775 1}
+{0 neutral,33 1,34 1,36 1,64 1,528 1,651 1,653 1,658 1,675 1,731 1,787 1,817 1}
+{0 neutral,24 1,33 1,207 1,685 1,749 1,752 1}
+{0 neutral,24 1,33 1,68 1,83 1,187 1,207 1,231 1,286 1,292 1,412 1,624 1,712 1,724 1,739 1,744 1,803 1}
+{0 neutral,21 1,33 1,34 1,36 1,681 1}
+{0 neutral,33 1,90 1,181 1,214 1,236 1,240 1,262 1,272 1,276 1,292 1,304 1,373 1,381 1,399 1,404 1,416 1,545 1,667 1,671 1,697 1,710 1,727 1,790 1,808 1,814 1}
+{0 neutral,4 1,24 1,33 1,187 1,207 1,281 1,292 1,310 1,652 1,709 1,715 1,726 1,748 1,784 1,815 1,819 1}
+{0 neutral,33 1,64 1,101 1,136 1,140 1,181 1,215 1,233 1,286 1,292 1,412 1,439 1,513 1,515 1,735 1,762 1}
+{0 neutral,33 1,124 1,222 1,274 1,300 1,305 1,320 1,546 1,688 1,762 1,777 1,811 1,818 1,831 1}
+{0 neutral,33 1,181 1,213 1,642 1,668 1,802 1}
+{0 neutral,37 1,61 1,64 1,80 1,96 1,140 1,141 1,233 1,240 1,257 1,292 1,447 1,558 1,569 1,687 1,711 1,754 1,762 1,766 1,783 1,824 1}
+{0 neutral,33 1,34 1,36 1,64 1,107 1,114 1,136 1,191 1,196 1,199 1,292 1,310 1,650 1,833 1}
