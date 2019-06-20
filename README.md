@@ -13,4 +13,4 @@ Incorrectly Classified Instances       671               20.6462 %
   - La aerolinea menor valorada fue: Us Airways
 
 ### Lexicón de sentimientos
-COMPLETAR
+* `python lexicon.py` para correr el `fastSentimentClassifier.jar` sobre el test dataset
